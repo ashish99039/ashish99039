@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ashish99039
-- 👀 I’m interested in Cybersecurity, Software Development, DBMS and Python
+- 👋 Hi, I’m Ashish Gupta
+- 👀 I’m interested in Software Development, DBMS, Java, Spring Boot, Python and SQL
 - 🌱 I’m currently majoring in Computer Science
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 Mail me at work.guptaashish@gmail.com
